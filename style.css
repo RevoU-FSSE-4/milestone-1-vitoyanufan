@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "montserrat";
+    font-size: 75px;
+}
+
+nav {
+    background-color: aqua;
+}
+
+header {
+    background-color: rgb(221, 140, 40);
+}
+
+main {
+    background-color: aquamarine;
+}
+
+footer {
+    background-color: brown;
+}
