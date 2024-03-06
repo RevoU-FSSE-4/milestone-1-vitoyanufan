@@ -1,12 +1,12 @@
-# Visit Madagascar Cult Site
+# Madagascar Safari and Marine Park
 
-1. This website introduce tourism potential using images and videos to exotic and beautiful island of Madagascar.
+1. This website introduce tourism potential using images and videos to exotic and beautiful Madagascar Safari and Marine Park.
 
 2. Also completion of Module 2 Assignment, the main task were about web auto-deployment from git-hub repository to netlify. While also connecting to domain and DNS.
 ![alt text](asset/assetReadMe/readMe-Cover.jpg)
 
     >Please checkout my assignment at:
-    > * https://github.com/RevoU-FSSE-4/module-2-vitoyanufan.git
+    > * https://github.com/RevoU-FSSE-4/milestone-1-vitoyanufan.git
     > * https://visitmadagascarcult.site/
 
 ## Content
