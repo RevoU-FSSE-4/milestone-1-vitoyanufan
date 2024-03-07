@@ -1,8 +1,8 @@
 # Madagascar Safari and Marine Park
 
-1. This website introduce tourism potential using images and videos to exotic and beautiful Madagascar Safari and Marine Park.
+1. This website introduce tourism potential using interactive images to exotic and beautiful Madagascar Safari and Marine Park.
 
-2. Also completion of Module 2 Assignment, the main task were about web auto-deployment from git-hub repository to netlify. While also connecting to domain and DNS.
+2. Also completion of Project Milestone 1, the main task were about creating company profile page using HTML and CSS and make it responsive, also web auto-deployment from git-hub repository to netlify. In the end making documentation to the project.
 ![alt text](asset/assetReadMe/readMe-Cover.jpg)
 
     >Please checkout my assignment at:
@@ -23,7 +23,7 @@
 
 2. Click **Domain** then choose **Cari & Cek Domain**.
 
-3. Type desire website name, in this case **visitmadagascarcult.site**
+3. Type desired website name, in this case **visitmadagascarcult.site**
 ![alt text](asset/assetReadMe/niagahostersite.png)
 
 4. If the name approved, continue by choose _.site_ as domain extension.
@@ -55,7 +55,7 @@
 ![alt text](asset/assetReadMe/readMe-netlifyImportGitHub.jpg)
 
 4. Select project in Github repository. Please make sure repository address is correct.
-> * https://github.com/RevoU-FSSE-4/module-2-vitoyanufan.git
+> * https://github.com/RevoU-FSSE-4/module-1-vitoyanufan.git
 
 5. Configure the site setting, especially in this case was the name of the website. (please checkout **Custom Domain & DNS** in section below)
 
@@ -63,11 +63,11 @@
 ![alt text](asset/assetReadMe/deployNetlify.png)
 
 7. Visit Madagascar Cult Site would be auto deployed from Github repository: 
-    > https://github.com/RevoU-FSSE-4/module-2-vitoyanufan.git
+    > https://github.com/RevoU-FSSE-4/module-1-vitoyanufan.git
 
 ## Custom Domain and DNS
 
-1. Make sure you have bought domain in Niagahoster and the website ready.
+1. Make sure you have bought domain in Niagahoster and the website in netlify is ready.
 
 2. Open _domain management_ of Visit Madagascar Cult Site project at Netlify.
 ![alt text](image.png)
@@ -96,6 +96,8 @@
 
 8. Netlify and Niagahoster would take 24 hours to process the domain & DNS customization.
 
-9. Finish.
+9. Your website would be ready in custom domain addres [visitmadagascarcult.site](https://visitmadagascarcult.site/) also auto-deployed from git-hub repository.
+
+10. Finish.
 
 
