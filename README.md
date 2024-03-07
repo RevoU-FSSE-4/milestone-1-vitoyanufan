@@ -5,11 +5,21 @@
 2. Also completion of Project Milestone 1, the main task were about creating company profile page using HTML and CSS and make it responsive, also web auto-deployment from git-hub repository to netlify. In the end making documentation to the project.
 ![alt text](asset/assetReadMe/readMe-Cover.jpg)
 
-    >Please checkout my assignment at:
+## Please checkout my assignment at:
     > * https://github.com/RevoU-FSSE-4/milestone-1-vitoyanufan.git
     > * https://visitmadagascarcult.site/
 
-## Content
+## Website Structure:
+
+![alt text](asset/assetReadMe/structure.png)
+
+1. Navbar
+2. Hero containing Titles
+3. Features using Grid
+4. Animal Gallery using Grid
+5. Booking form
+
+## Setting DNS and Deployment Content
 
    > * Buy Domain in Niagahoster
    > * Signing-in Netlify
@@ -100,4 +110,7 @@
 
 10. Finish.
 
+## External Link
+
+1. Montseraat google font: "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
 
